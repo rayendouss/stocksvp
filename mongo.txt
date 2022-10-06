@@ -1,0 +1,2 @@
+duA61KVHOSfyIRNa
+mongodb+srv://svp:<password>@cluster0.ubnvl.mongodb.net/?retryWrites=true&w=majority
